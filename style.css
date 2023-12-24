@@ -167,7 +167,7 @@ header{
     position: relative;
 }
 .tokenomics_logo img{
-    width: 300px;
+    width: 400px;
 }
 /* ==================== */
 footer, .footer{
@@ -217,7 +217,7 @@ footer, .footer{
         text-align: center;
     }
     .tokenomics_logo img{
-        width: 200px;
+        width: 250px;
     }
     .about_title, .tokenomics_title{
         font-size: 50px;
