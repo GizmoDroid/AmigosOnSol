@@ -87,6 +87,8 @@ header{
     font-weight: 900;
 }
 .desc{
+	font-size: 30px;
+	text-align: center;
 	padding: 0px 50px;
 }
 .contract{
