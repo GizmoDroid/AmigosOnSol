@@ -43,6 +43,7 @@ header{
     gap: 20px;
     justify-content: center;
     align-items: center;
+	text-align: center;
 }
 .btn_buy{
     color: white;
@@ -222,10 +223,13 @@ footer, .footer{
         font-size: 50px;
     }
     .button_buy{
-        width: 250px;
+        width: 20%;
+		
+		
     }
 	.btn_buy{
     font-size: 16px;
+	padding: 10px 15px;
 
 
 }
