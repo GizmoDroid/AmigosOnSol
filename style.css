@@ -34,7 +34,7 @@ header{
     width: 25%;
 }
 .button_buy{
-    width: 25%;
+    width: 600px;
     background-color: #567E3A;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
@@ -222,9 +222,10 @@ footer, .footer{
         font-size: 50px;
     }
     .button_buy{
-        width: 300px;
+        width: 250px;
     }
-    .button_buy a:last-child{
-        display: none;
-    }
+	.btn_buy{
+    font-size: 16px;
+
+
 }
